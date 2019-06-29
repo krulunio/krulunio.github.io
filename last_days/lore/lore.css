@@ -74,8 +74,9 @@ h1, h2, h3{
 	height: 25%;
 }
 
-.blocks{
+.items{
 	height: 60px;
+	image-rendering: crisp-edges;
 }
 
 .name{
