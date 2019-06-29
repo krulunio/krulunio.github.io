@@ -74,6 +74,10 @@ h1, h2, h3{
 	height: 25%;
 }
 
+.blocks{
+	height: 60px;
+}
+
 .name{
 	font-style: italic;
 }
